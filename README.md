@@ -32,3 +32,18 @@ This task defines a function to calculate the factorial of a number using a loop
 
 Task 2: Use Math Module for Calculations
 his task involves creating a Python program that uses the built-in math module to perform three mathematical operations on a user-input number: square root, natural logarithm, and sine. 
+
+
+############################################################################################################################################
+assignment 5
+
+Task 1: Student Marks Lookup
+- Create a dictionary of student names and their marks.  
+- Accept a student name from user input.  
+- Display the marks if found, otherwise show an appropriate message.
+
+Task 2: Extract and Reverse List Elements 
+- Create a list of numbers from 1 to 10.  
+- Extract the first five elements.  
+- Reverse these extracted elements.  
+- Display both the original and reversed lists.
